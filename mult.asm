@@ -1,0 +1,5 @@
+.ORIG x3000
+
+LD R1, A
+LD R2, B
+AND R3, R3 #0
